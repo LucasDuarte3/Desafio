@@ -1,2 +1,2 @@
 # Desafio
-Participantes: Lucas Duarte, Dayse Sousa e Renato Holanda
+Participantes: Dayse Sousa, Lucas Gomes e Renato Holanda
